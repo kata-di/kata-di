@@ -78,18 +78,6 @@ Turning data into meaningful solutions through technology, analytics, and curios
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=danakatalinadiaz&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danakatalinadiaz&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
----
-
 ## ✨ Fun Fact
 
 > “I love ecology and environmental sciences. 🌱 ”
